@@ -9,11 +9,11 @@ License: GPLv2 or later\
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
-Let's your user publish a post on the Ethereum blockchain and make them post immutable.
+Let's your user publish a post on the Ethereum blockchain and make their post immutable.
 
 ## Description 
 
-Let's your user publish a post on the Ethereum blockchain and make them post immutable.
+Let's your user publish a post on the Ethereum blockchain and make their post immutable.
 Their post will appear on the public website http://immutablepost.com.
 Receive a 50% commission paid on your Ethereum wallet for every Immutable Post published on our main website through your own website using our plugin.
 
