@@ -190,8 +190,9 @@ class ImmutablePost_Settings {
 	private function settings_fields() {
 
 		$settings['standard'] = array(
-			'title'       => __( 'Options', 'immutablepost' ),
-			'description' => __( 'Enter a title for the form and your Ethereum wallet address', 'immutablepost' ),
+			'title'       => __( 'Setup and Options', 'immutablepost' ),
+			'description' => __( '1.Enter a title for the form and your Ethereum wallet address.<br>2.Insert [immutable_post] shortcode to display the form', 'immutablepost' ),
+			
 			'fields'      => array(
 				array(
 					'id'          => 'form_title',
