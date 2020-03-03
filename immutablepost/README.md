@@ -1,0 +1,3 @@
+WordPress Plugin Immutable Post
+===============================
+
