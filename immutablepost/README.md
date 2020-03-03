@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Let's your user publish a post on the Ethereum blockchain and make them post immutable.
 
-## Description ==
+## Description 
 
 Let's your user publish a post on the Ethereum blockchain and make them post immutable.
 Their post will appear on the public website http://immutablepost.com.
