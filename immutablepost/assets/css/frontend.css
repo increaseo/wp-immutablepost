@@ -1,1 +1,11 @@
 /* phpcs:ignore */
+.rightaligned {
+    float:right;
+}
+#submit-bt {
+    float: right;
+}
+.errorfield {
+    font-size: 12px;
+    color: #FF0000;
+}
